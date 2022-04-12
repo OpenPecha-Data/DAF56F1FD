@@ -3018,72 +3018,84 @@ annotations:
     span:
       start: 552261
       end: 553608
+    note_ref: 1fc78b48349f4f6e9f803eceee1bd155
   e8636f6489aa4ea5b4f7af1862453cb6:
     imgnum: 455
     reference: ''
     span:
       start: 553610
       end: 554925
+    note_ref: 1fc78b48349f4f6e9f803eceee1bd155
   0ed91736f5f442db8f408848beb60750:
     imgnum: 456
     reference: ''
     span:
       start: 554927
       end: 556251
+    note_ref: 1fc78b48349f4f6e9f803eceee1bd155
   0098c00b13ac47a29b5a45acecb7f964:
     imgnum: 457
     reference: ''
     span:
       start: 556253
       end: 557599
+    note_ref: 1fc78b48349f4f6e9f803eceee1bd155
   2ab4fc2f974a4dadb2b40647bf273e70:
     imgnum: 458
     reference: ''
     span:
       start: 557601
       end: 558899
+    note_ref: 1fc78b48349f4f6e9f803eceee1bd155
   6f3210027c7c463c84d5e220ccfd7ec2:
     imgnum: 459
     reference: ''
     span:
       start: 558901
       end: 560102
+    note_ref: 1fc78b48349f4f6e9f803eceee1bd155
   2562ba6c36654c1b852dc4cbdaae28db:
     imgnum: 460
     reference: ''
     span:
       start: 560104
       end: 561337
+    note_ref: 1fc78b48349f4f6e9f803eceee1bd155
   5078fbb4a58649be82404a158c9ed4ba:
     imgnum: 461
     reference: ''
     span:
       start: 561339
       end: 562495
+    note_ref: 1fc78b48349f4f6e9f803eceee1bd155
   a07565a702454d93a1b945fd91f4b48b:
     imgnum: 462
     reference: ''
     span:
       start: 562497
       end: 563733
+    note_ref: 1fc78b48349f4f6e9f803eceee1bd155
   4aab10b34d784a55be4dba34f048ad16:
     imgnum: 463
     reference: ''
     span:
       start: 563735
       end: 565067
+    note_ref: 1fc78b48349f4f6e9f803eceee1bd155
   e7cbb3dee7074c7aad1784127698293f:
     imgnum: 464
     reference: ''
     span:
       start: 565069
       end: 566364
+    note_ref: 1fc78b48349f4f6e9f803eceee1bd155
   3badfd78713c4474b5c8754d2614b64a:
     imgnum: 465
     reference: ''
     span:
       start: 566366
       end: 567573
+    note_ref: 1fc78b48349f4f6e9f803eceee1bd155
   1cfe303d6da8417a8b5df4748cbd8a25:
     imgnum: 466
     reference: ''
